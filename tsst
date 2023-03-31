@@ -1,0 +1,3 @@
+if getgenv().Photon then
+    loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/0d5d63cca62f88732c490ad73fcef2c2.lua"))()
+end
